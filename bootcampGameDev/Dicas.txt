@@ -1,0 +1,19 @@
+# dio-desafio-github-repositorio01
+Repositório de Aulas do BootCamp da Dio - Desafio
+
+## Links Úteis
+
+[Sintax Básica Markdown](https://www.markdownguide.org/)
+
+## Comandos Terminal
+
+Lista os itens em uma pasta - ls
+Limpa a tela do terminal - clear
+Entra nas pastas - cd "CEDÊ ESPAÇO"
+
+## Comandos Git
+
+Inserindo comentário - git commit -m "insira seu comentário aqui"
+Clona um repositório localmente - git clone https://...
+Adiciona/atualiza o repositório - git add .
+Envia o arquivo para acesso remoto - git push origin main
